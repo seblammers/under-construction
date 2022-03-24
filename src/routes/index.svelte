@@ -4,7 +4,7 @@
 	import TTTwinkle from '$lib/components/TTTwinkle.svelte';
 
 	let value;
-	const steps = ['<p>This site is</p>', '<p>under</p>', '<p>construction.</p>'];
+	const steps = ['<p>This site is... </p>', '<p>... under construction.</p>', '<p>Nothing to see here, yet.</p>'];
 </script>
 
 <svelte:head>
@@ -13,7 +13,7 @@
 
 <section>
 	<div class="hero">
-		<h1>Sebastian Lammers is playing with code</h1>
+		<h1>Psst, let me tell you a secret:</h1>
 	</div>
 
 	<div class="section-container">
